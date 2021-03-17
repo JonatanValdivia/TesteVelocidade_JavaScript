@@ -1,0 +1,38 @@
+body{
+  background-color: rgb(14, 16, 17);
+}
+div{
+  box-sizing: border-box;
+}
+h1{
+  text-align: left;
+  font-size: 5vmin;
+}
+
+input{
+  align-items: center;
+  display: block;
+}
+
+#caixa{
+  padding: 2%;
+  width: 45vh;
+  height: auto;
+  border-radius: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3%;
+  background-color: rgba(102, 148, 176);
+}
+
+#situacao{
+  width: 45vh;
+  height: auto;
+  padding: 2%;
+  background-color: rgb(240, 121, 121);  
+  border-radius: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
